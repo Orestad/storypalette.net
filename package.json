@@ -1,0 +1,13 @@
+{
+  "name": "storypalette.net",
+  "version": "0.0.1",
+  "description": "Public frontpage for www.storypalette.net",
+  "scripts": {
+    "deploy": "git push origin gh-pages"
+  },
+  "keywords": [
+    "storypalette"
+  ],
+  "author": "Unsworn Industries",
+  "license": "MIT"
+}
